@@ -25,7 +25,7 @@ WiFiClient client;
 bool interruptor = 0;
 bool verificador = 0;
 float intensidade = 1.0;
-string lampId = "5e73b40a372cfa288b0e5f9e"
+string lampId = "" //Your id lamp
 
 uint64_t heartbeatTimestamp = 0;
 bool isConnected = false;
